@@ -89,4 +89,4 @@ No continued development as it executed it perfectly, the webpage matches the de
 
 - Website - [Abiodun Longe](https://odunlemi.github.io/)
 - Frontend Mentor - [@odunlemi](https://www.frontendmentor.io/profile/odunlemi)
-- X - [@yourusername](https://www.x.com/odunlemi)
+- X - [@odunlemi](https://www.x.com/odunlemi)
